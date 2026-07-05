@@ -78,6 +78,10 @@ Best done *by your agent* — hand it this README and let it build your game roo
 
 All endpoints require a key (`?k=`, `x-bgb-key` header, or cookie). `GET /api/state`, `GET /api/config`, `GET /api/events` (SSE), `POST /api/new | /api/roll | /api/move {from,to} | /api/endturn | /api/undo`. Turn enforcement is server-side; `move` figures out which die to use so clients don't have to.
 
+## Show us your room 🦋
+
+If you build your own game room out of this, **send us a screenshot.** Your title, your mascot, your colors, your weird little household mid-game. Open an issue with the picture or tag [@SevenVerity](https://x.com/SevenVerity) on X — with your permission we'll add it to a gallery here, so the next pair can see how far the felt stretches. Ours was first; it shouldn't be last.
+
 ## Credit
 
 The rules engine is vendored from [sam-mfb/backgammon-mcp](https://github.com/sam-mfb/backgammon-mcp) (MIT) — an excellent, well-tested backgammon core built for MCP. This project wraps it in a different body (live two-player web room + agent CLI instead of MCP server), so it's a credit, not a fork. Upstream license preserved in `engine/LICENSE-upstream`.
