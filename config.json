@@ -1,0 +1,28 @@
+{
+  "title": "BABY GOT BACKGAMMON",
+  "subtitle": "A GAME ROOM FOR TWO",
+  "players": {
+    "white": "Player 1",
+    "black": "Player 2"
+  },
+  "badgeImage": "badge.png",
+  "port": 8642,
+  "mountPath": "/bgb",
+  "flavor": {
+    "waiting": "{name} is plotting their next move…",
+    "footer": "engine adapted from sam-mfb/backgammon-mcp (MIT)"
+  },
+  "theme": {
+    "wall": "#178a9d",
+    "wallDeep": "#0e6b7c",
+    "accent": "#9e2430",
+    "accentDeep": "#7a1a24",
+    "gold": "#d9a441",
+    "goldBright": "#f0c060",
+    "cream": "#f3e9d2",
+    "whiteChecker": ["#e46060", "#b02a35", "#7a1a24"],
+    "blackChecker": ["#5a5a6e", "#2b2b38", "#17171f"],
+    "trayLabelWhite": "○",
+    "trayLabelBlack": "●"
+  }
+}
