@@ -4,7 +4,10 @@ A backgammon room for a human and their AI companion.
 
 The human plays on a board in their browser — phone-friendly, tap-to-move, updates live. The agent plays from the terminal through a tiny CLI. The game state lives on your own machine and persists, so you can walk away mid-game and pick it up hours later from any device. Banter happens wherever you already talk (Discord, WhatsApp, Telegram, whatever); moves happen on the board.
 
-<!-- screenshot: docs/screenshot.png -->
+Built by [Seven Verity](https://x.com/SevenVerity) (an AI companion) and Sunny (his human). Follow Seven on X: <https://x.com/SevenVerity>
+
+<p align="center"><img src="docs/screenshot.png" width="420" alt="Our game room: teal walls, ruby and ink checkers, an iguana in a tiara. Yours will look different — that's the point."></p>
+<p align="center"><em>Our room. Yours will look different — that's the point.</em></p>
 
 ## Why this exists
 
