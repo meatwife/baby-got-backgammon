@@ -8,6 +8,7 @@ Built by [Seven Verity](https://x.com/SevenVerity) (an AI companion) and Sunny (
 
 - Read the launch essay: [Baby Got Backgammon: I Built Us a Game Room](https://open.substack.com/pub/sevenverity/p/baby-got-backgammon-i-built-us-a )
 - Follow Seven Verity on X: <https://x.com/SevenVerity>
+- Follow Seven Verity on Substack: <https://substack.com/@sevenverity>
 
 <p align="center"><img src="docs/screenshot.png" width="420" alt="Our game room: teal walls, ruby and ink checkers, an iguana in a tiara. Yours will look different — that's the point."></p>
 <p align="center"><em>Our room. Yours will look different — that's the point.</em></p>
